@@ -1,0 +1,1 @@
+print('This laptop is pretty good')
